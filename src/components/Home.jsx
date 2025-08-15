@@ -53,10 +53,10 @@ function Home() {
             Better food better mood.
             <FaBowlFood />
           </h4>
-          <div className="text-2xl ml-3 text-red-200 font-bold mt-3">
+          <div className="text-2xl ml-3 text-stone-200 font-bold mt-3">
             Cooking is like making love, you do it well,<br></br> or you do not
             do it at all.
-            <TbClover className="text-4xl inline-block text-red-500" />
+            <TbClover className="text-4xl inline-block text-stone-200" />
           </div>
         </div>
         <div
